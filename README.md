@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! I'm Jessica Cabral Carvalho 👋
 
-<!--
-**jcabralc/jcabralc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin badge](https://img.shields.io/badge/Jessica_Cabral-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/jessica-cabral-carvalho)
+[![gmail badge](https://img.shields.io/badge/Jessica_Cabral-30302f?style=flat&logo=Gmail&logoColor=Red&link=mailto:jeccabral22@gmail.com)](mailto:jeccabral22@gmail.com)
 
-Here are some ideas to get you started:
+### I am Data Scientist at [OMotor](https://omotor.com.br/). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is to solve business problems through Machine Learning, Deep Learning and Data Engineering.
+
+You can find some of my projects here on Github or in my [Blog](https://jcabralc.wordpress.com/)
+
+![Jessica github stats](https://github-readme-stats.vercel.app/api?username=jcabralc)
+
+<p align="center">
+Check out my repos ⬇️  
+</p>
